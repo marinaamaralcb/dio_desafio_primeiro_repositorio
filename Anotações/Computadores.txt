@@ -1,0 +1,21 @@
+# Computadores
+
+##### Atualmente dispomos de computadores extremamente velozes, que apresentam tamanhos cada vez menores; esses avanços são possíveis graças às pesquisas que não cessam, por parte de inúmeras universidades e instituições de pesquisa dispostas a descobrir o novo. Assim surgiu o que conhecemos por nanotecnologia, ou seja, a capacidade potencial de criar a partir da miniaturização, permitindo, assim, o desenvolvimento de dispositivos miniaturizados para compor um computador, por exemplo.
+
+##### Segundo a arquitetura de Von Neumann, os computadores possuem quatro componentes principais: Unidade Central de Processamento (UCP) – composta pela Unidade Lógica e Aritmética (ULA) e a Unidade de Controle (UC), a memória e os dispositivos de entrada e saída. Tais componentes são interconectadas por barramentos. E todos esses itens constituem o hardware de um computador (seu conjunto de componentes físicos), os quais são agrupados em módulos específicos, constituindo a estrutura básica de um computador. A Figura 1.8 mostra, de forma genérica, essa estrutura. Cabe esclarecer que quando se fala em processador está se falando genericamente da UCP. Muitas pessoas usam a sigla UCP ou CPU para indicar o gabinete do computador, o que é errôneo.![img](https://lh5.googleusercontent.com/m_1CgZNvcLjQIGxnSFOqmizJbf6IBJUrABUcNzGga0cVy4XJ90BWaoxzT82IAcR3XVb1qe_7JQVFXl75lYVoNrOLBpTHTILB67ZNVf3bNOxFL1QH1ogLnpx9DwPZv5G3oiub3WkCXd5ODkwg3EvGMu_LL4Ar8v7nnExoSmXzTEKK4fm_jfc2Z3HcAw)A seguir serão descritos cada um dos principais componentes de um computador:
+
+- UCP (Unidade Central de Processamento):
+
+  ##### Sigla representativa de Unidade Central de Processamento. Podemos dizer que se trata do componente principal do computador. Algumas pessoas chamam de processador ou microprocessador. É responsável pela execução de dados e instruções armazenadas em memória (código de programas e dados);
+
+- Memória:
+
+  ##### Existem diversos tipos de memória em um computador (ex.: RAM (principal), ROM, cache, registradores), mas existe uma delas denominada memória principal, a qual é indispensável. A memória principal é tão importante quanto a UCP, pois sem ela não seria possível disponibilizar os programas e seus dados para o processamento pela CPU. Portanto, a memória é responsável por armazenar todos os programas que executam no computador e os dados que utilizam;
+
+- Dispositivos de Entrada e Saída (E/S):
+
+  ##### São dispositivos responsáveis pelas entradas e saídas de dados, ou seja, pelas interações entre o computador e o mundo externo (usuários). São exemplos de dispositivos de E/S: monitor de vídeo, teclado, mouse, webcam, impressora, entre outros;
+
+- Barramento:
+
+  ##### É responsável por interligar todos os componentes listados acima. Trata-se de uma via de comunicação composta por diversos fios ou condutores elétricos por onde circulam os dados manipulados pelo computador.

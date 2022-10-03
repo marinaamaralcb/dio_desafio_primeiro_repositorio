@@ -1,0 +1,10 @@
+# O que é HTML?
+
+- HTML é a linguagem de marcação padrão para criar páginas da Web.
+- HTML significa **Hyper Text Markup Language**
+- HTML descreve a estrutura de uma página da Web
+- HTML consiste em uma série de elementos
+- Os elementos HTML informam ao navegador como exibir o conteúdo
+- Os elementos HTML são representados por tags
+- As tags HTML rotulam partes do conteúdo, como "cabeçalho", "parágrafo", "tabela" e assim por diante
+- Os navegadores não exibem as tags HTML, mas as usam para renderizar o conteúdo da página.
